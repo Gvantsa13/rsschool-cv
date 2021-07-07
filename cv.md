@@ -17,3 +17,11 @@ Experienced Quality Assurance Specialist with a demonstrated history of working 
 * HTML
 * CSS
 * SQL
+
+## Education:
+---
+**Ivane Javakhishvili Tbilisi State University-** Faculty of Economics and Business
+
+## English:
+---
+**British Council Georgia-** Upper-intermediate English Course
