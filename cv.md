@@ -10,3 +10,10 @@
 ## Summary:
 ---
 Experienced Quality Assurance Specialist with a demonstrated history of working in the information technology and services industry. Now my goal is to became a great programmer.
+
+## Skills: 
+---
+* Microsoft Office
+* HTML
+* CSS
+* SQL
